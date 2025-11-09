@@ -8,22 +8,22 @@ I like building clean, reliable software and learning by shipping.
  - 🤝 Open to internships/entry-level roles & open-source collabs
    
 ## 💡 Skills & Tools
-Programming & Backend: Python · JavaScript (Node.js/Express) · C · Flask · React · MongoDB
-Cybersecurity / Pentesting: Web app pentesting, OWASP Top 10, vulnerability scanning, penetration testing
-Other Interests: Assembly (8086), Jupyter Notebooks, data analysis, CI/CD
-Tools & Platforms: Git · Linux · Docker · VS Code .
+ - Programming & Backend: Python · JavaScript (Node.js/Express) · C · Flask · React · MongoDB
+ - Cybersecurity / Pentesting: Web app pentesting, OWASP Top 10, vulnerability scanning, penetration testing
+ - Other Interests: Assembly (8086), Jupyter Notebooks, data analysis, CI/CD
+ - Tools & Platforms: Git · Linux · Docker · VS Code .
 
 ## Completed Projects
-Grocery Shopping (MERN) — full-stack CRUD with Mongo + Node + React
-Repo: 
-TradeLoop (Flask) — routes, models, templates; a small marketplace 
-Repo: 
-AI/ML Labs (CSE422) — notebooks (e.g., hotel bookings) & assignments
-Repo: 
-Computer Graphics Labs (CSE423) — Python assignments & a 3D script
-Repo:
-Mini Calculator (8086 asm) — arithmetic ops in 16-bit assembly
-Repo: 
+ - Grocery Shopping (MERN) — full-stack CRUD with Mongo + Node + React  
+   Repo: 
+ - TradeLoop (Flask) — routes, models, templates; a small marketplace 
+   Repo: 
+ - AI/ML Labs (CSE422) — notebooks (e.g., hotel bookings) & assignments
+   Repo: 
+ - Computer Graphics Labs (CSE423) — Python assignments & a 3D script
+   Repo:
+ - Mini Calculator (8086 asm) — arithmetic ops in 16-bit assembly
+   Repo: 
 
 ## Links
 🔗 LinkedIn: 
