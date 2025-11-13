@@ -1,11 +1,15 @@
-## Hi there 👋
+##                                             Hello, I'm Mahdi Tazwar
 CSE @ BRAC University — graduated OCT 2025
-I like building clean, reliable software and learning by shipping.
+I am an undergraduate Computer Science and Engineering student at BRAC University, Bangladesh, with a strong passion for.......................... I thrive at the intersection of software and hardware, where I work on developing data-driven, impactful, and real-world solutions.
 
- - 🔭 Recent work: MERN grocery app, Flask /Python projects, ML assignments, 8086 asm mini-calc
- - 🧪 I value readable code, small PRs, and cybersecurity enthusiast
- - 🌱 Learning: systems design, Docker, and pentesting basics.
- - 🤝 Open to internships/entry-level roles & open-source collabs
+I have interest in cybersecurity and blockchain. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
+
+I explore the dynamic intersection of software and hardware through both academic and personal projects. My core goal is to innovate and solve real-world problems that truly matter.
+
+ -  Recent work: MERN grocery app, Flask /Python projects, ML assignments, 8086 asm mini-calc
+ -  I value readable code, small PRs, and cybersecurity enthusiast
+ -  Learning: systems design, Docker, and pentesting basics.
+ -  Open to internships/entry-level roles & open-source collabs
    
 ## 💡 Skills & Tools
  - Programming & Backend: Python · JavaScript (Node.js/Express) · C · Flask · React · MongoDB
@@ -14,9 +18,11 @@ I like building clean, reliable software and learning by shipping.
  - Tools & Platforms: Git · Linux · Docker · VS Code .
 
 ## Completed Projects
- - Grocery Shopping (MERN) — full-stack CRUD with Mongo + Node + React  
+ - Penetration Testing Framework
    Repo: 
  - TradeLoop (Flask) — routes, models, templates; a small marketplace 
+   Repo: 
+ - Grocery Shopping (MERN) — full-stack CRUD with Mongo + Node + React  
    Repo: 
  - AI/ML Labs (CSE422) — notebooks (e.g., hotel bookings) & assignments
    Repo: 
@@ -26,7 +32,7 @@ I like building clean, reliable software and learning by shipping.
    Repo: 
 
 ## Links
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/mahdi-tazwar 
 🧑‍💻 GitHub: https://github.com/Asifarman12
 <!--
 **Mahdi-Tazwar17/Mahdi-Tazwar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
