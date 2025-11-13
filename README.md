@@ -29,7 +29,11 @@ I explore the dynamic intersection of software and hardware through both academi
  - Computer Graphics Labs (CSE423) — Python assignments & a 3D script
    - Repo:
  - Mini Calculator (8086 asm) — arithmetic ops in 16-bit assembly
-   - Repo: 
+   - Repo:
+ - Neural Network Project (Unsupervised Clustering of MNIST Dataset Using 
+   Convolutional Autoencoder and 
+   K-Means )
+   - Repo:  
 
 ## Links
  -  LinkedIn: www.linkedin.com/in/mahdi-tazwar 
