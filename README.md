@@ -1,10 +1,10 @@
 ##                                             Hello, I'm Mahdi Tazwar
 CSE @ BRAC University — graduated OCT 2025
-I am a Computer Science and Engineering graduate (OCT 2025) from BRAC University, Bangladesh, with a strong passion for web development, cybersecurity, and data analysis. knowledge in full-stack application development and penetration testing. I thrive at the intersection of software and hardware, where I work on developing data-driven, impactful, and real-world solutions.
+I am a Computer Science and Engineering graduate (OCT 2025) from BRAC University, Bangladesh, with a strong passion for web development, cybersecurity, and data analysis. Knowledge in full-stack application development and penetration testing. I thrive at the intersection of software and hardware, where I work on developing data-driven, impactful, and real-world solutions.
 
-I have interest in cybersecurity and blockchain. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
+I explore the dynamic intersection of software and hardware through both academic and personal projects. My core goal is to innovate and solve real-world problems that truly matter. I have an interest in cybersecurity. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
 
-I explore the dynamic intersection of software and hardware through both academic and personal projects. My core goal is to innovate and solve real-world problems that truly matter.
+
 
  -  Recent work: MERN grocery app, Flask /Python projects, ML assignments, 8086 asm mini-calc
  -  I value readable code, small PRs, and cybersecurity enthusiast
@@ -19,21 +19,21 @@ I explore the dynamic intersection of software and hardware through both academi
 
 ## Completed Projects
  - Penetration Testing Framework
-   - Repo: 
+   - Repo: https://github.com/Mahdi-Tazwar17/Automated_penetration_testing_framework 
  - TradeLoop (Flask) — routes, models, templates; a small marketplace 
-   - Repo: 
+   - Repo: https://github.com/Mahdi-Tazwar17/flaskproject_Tradeloop_cse471 
  - Grocery Shopping (MERN) — full-stack CRUD with Mongo + Node + React  
-   - Repo: 
+   - Repo: https://github.com/Mahdi-Tazwar17/Mernstack_project_CSE470 
  - AI/ML Labs (CSE422) — notebooks (e.g., hotel bookings) & assignments
-   - Repo: 
+   - Repo: https://github.com/Mahdi-Tazwar17/Artificial_intelligence_cse422_project 
  - Computer Graphics Labs (CSE423) — Python assignments & a 3D script
-   - Repo:
+   - Repo: https://github.com/Mahdi-Tazwar17/Cse423_Computer-graphics-lab_assignment 
  - Mini Calculator (8086 asm) — arithmetic ops in 16-bit assembly
-   - Repo:
+   - Repo: https://github.com/Mahdi-Tazwar17/cse341_microprocessor_assembly-project_minicalculator 
  - Neural Network Project (Unsupervised Clustering of MNIST Dataset Using 
    Convolutional Autoencoder and 
    K-Means )
-   - Repo:  
+   - Repo: https://github.com/Mahdi-Tazwar17/Neural-Network-Project 
 
 ## Links
  -  LinkedIn: www.linkedin.com/in/mahdi-tazwar 
