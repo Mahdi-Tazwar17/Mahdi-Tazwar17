@@ -1,6 +1,6 @@
 ##                                             Hello, I'm Mahdi Tazwar
 CSE @ BRAC University — graduated OCT 2025
-I am an undergraduate Computer Science and Engineering student at BRAC University, Bangladesh, with a strong passion for.......................... I thrive at the intersection of software and hardware, where I work on developing data-driven, impactful, and real-world solutions.
+I am a Computer Science and Engineering graduate (OCT 2025) from BRAC University, Bangladesh, with a strong passion for web development, cybersecurity, and data analysis. knowledge in full-stack application development and penetration testing. I thrive at the intersection of software and hardware, where I work on developing data-driven, impactful, and real-world solutions.
 
 I have interest in cybersecurity and blockchain. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
 
@@ -19,21 +19,21 @@ I explore the dynamic intersection of software and hardware through both academi
 
 ## Completed Projects
  - Penetration Testing Framework
-   Repo: 
+   - Repo: 
  - TradeLoop (Flask) — routes, models, templates; a small marketplace 
-   Repo: 
+   - Repo: 
  - Grocery Shopping (MERN) — full-stack CRUD with Mongo + Node + React  
-   Repo: 
+   - Repo: 
  - AI/ML Labs (CSE422) — notebooks (e.g., hotel bookings) & assignments
-   Repo: 
+   - Repo: 
  - Computer Graphics Labs (CSE423) — Python assignments & a 3D script
-   Repo:
+   - Repo:
  - Mini Calculator (8086 asm) — arithmetic ops in 16-bit assembly
-   Repo: 
+   - Repo: 
 
 ## Links
 🔗 LinkedIn: www.linkedin.com/in/mahdi-tazwar 
-🧑‍💻 GitHub: https://github.com/Asifarman12
+🧑‍💻 GitHub: https://github.com/Mahdi-Tazwar17 
 <!--
 **Mahdi-Tazwar17/Mahdi-Tazwar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
