@@ -32,8 +32,8 @@ I explore the dynamic intersection of software and hardware through both academi
    - Repo: 
 
 ## Links
--🔗 LinkedIn: www.linkedin.com/in/mahdi-tazwar 
--🧑‍💻 GitHub: https://github.com/Mahdi-Tazwar17 
+  🔗 LinkedIn: www.linkedin.com/in/mahdi-tazwar 
+  🧑‍💻 GitHub: https://github.com/Mahdi-Tazwar17 
 <!--
 **Mahdi-Tazwar17/Mahdi-Tazwar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
